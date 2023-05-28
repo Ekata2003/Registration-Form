@@ -1,2 +1,2 @@
 # Registration-Form
-REgistration Form  using html, CSS .
+Registration Form  using html, CSS .
